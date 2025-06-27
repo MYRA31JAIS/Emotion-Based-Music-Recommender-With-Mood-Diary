@@ -1,4 +1,4 @@
-# Emotion-based music recommendation system
+# Emotion-Based Music Recommender with Mood Diary
 
 This is a project that detects real-time facial emotions using a CNN model and recommends music accordingly via Spotify integration.
 It also maintains a timestamped emotional diary with poetic entries, offering both personalization and sentiment tracking.
